@@ -1,4 +1,5 @@
-# mydemo
+# myfirstpractices
 this is my first learning repo.
 <br>
-Author - scarculi
+Author - scar (culi).
+
